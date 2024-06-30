@@ -1,0 +1,10 @@
+body {
+  height: auto;
+  cursor: default;
+  background: #0086ff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
